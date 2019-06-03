@@ -2,7 +2,7 @@ Zcash 2.0.5-2
 <img align="right" width="120" height="80" src="doc/imgs/logo.png">
 ===========
 
-What is Zcash?
+Zcash là gì?
 --------------
 
 [Zcash](https://z.cash/) is an implementation of the "Zerocash" protocol.
